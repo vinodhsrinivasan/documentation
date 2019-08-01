@@ -36,3 +36,15 @@ mvnw -DskipTests clean package -Pnative -Dnative-image.docker-build=true
 Usage:  docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 
 docker tag SOURCE_IMAGE[:sathi] TARGET_IMAGE[:sath1];docker push SOURCE_IMAGE[:sathi] TARGET_IMAGE[:sath1]
+
+--
+## OPENID reference
+https://github.com/onelogin/openid-connect-dotnet-core-sample.git
+https://github.com/curityio/example-dotnet-openid-connect-client
+
+## Windows WSL Linux
+```
+https://code.visualstudio.com/docs/remote/wsl
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/
+```
