@@ -48,3 +48,10 @@ https://code.visualstudio.com/docs/remote/wsl
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/
 ```
+
+### GRAAL VM
+```
+OPENJDK: https://adoptopenjdk.net/upstream.html
+https://github.com/aclement/spring-boot-graal-feature
+https://micronaut-projects.github.io/micronaut-spring/latest/guide/index.html#springMvc
+```
